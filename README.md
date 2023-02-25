@@ -1,6 +1,7 @@
 ### Yoo, I'm Quan Wan 👋
 
-[![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=495867&color=495867&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dhayschan&style=flat-square)](https://github.com/qwanphys)
+[![Steam](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fsteamgames%2F76561198801360914&query=count&color=0b1a37&label=Steam&labelColor=134375&logo=steam&suffix=+games&cacheSeconds=3600)](https://steamcommunity.com/profiles/76561198801360914)
+[![知乎](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fzhihu%2Fqi-yue-liu-huo-20-18&query=count&color=282c34&label=zhihu&labelColor=0084ff&logo=zhihu&logoColor=ffffff&suffix=+follower&cacheSeconds=3600)](https://www.zhihu.com/people/qi-yue-liu-huo-20-18)
 
 $|\mathrm{Quan}\rangle =\frac{1}{\sqrt{2}}\left( |\mathrm{Phys}\rangle \otimes |\mathrm{CS}\rangle \right) $
 
