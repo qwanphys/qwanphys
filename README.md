@@ -5,7 +5,7 @@
 
 $|\mathrm{Quan}\rangle =\frac{1}{\sqrt{2}}\left( |\mathrm{Phys}\rangle \otimes |\mathrm{CS}\rangle \right) $
 
-- 🍻 Junior at 🏫[FDU](https://www.fudan.edu.cn), _BSc in Physics_
+- 🍻 Junior at 🏫[Fudan](https://www.fudan.edu.cn), _BSc in Physics_
 - ⚡ Python / C / Mathematica.
 - ✍️ [Blogger](https://qwanphys.github.io)
 - 🏃 Tennis/ Jogging/ Table Tennis / Cycling
