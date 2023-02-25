@@ -2,7 +2,13 @@
 
 [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=495867&color=495867&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dhayschan&style=flat-square)](https://github.com/qwanphys)
 
-- 🍻 Junior at 🇨🇳 [FDU](https://www.fudan.edu.cn), _BSc in Physics_
+
+$$
+|\mathrm{Quan}\rangle =\frac{1}{\sqrt{2}}\left( |\mathrm{Phys}\rangle \otimes |\mathrm{CS}\rangle \right) 
+$$
+
+
+- 🍻 Junior at 🏫[FDU](https://www.fudan.edu.cn), _BSc in Physics_
 - ⚡ Python / C / Mathematica.
 - ✍️ [Blogger](https://qwanphys.github.io)
 - 🏃 Tennis/ Jogging/ Table Tennis / Cycling
